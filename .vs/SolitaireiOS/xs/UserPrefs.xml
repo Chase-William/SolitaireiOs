@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{43BEC84C-8232-410B-B153-DD717AE3C6A0}|Default">
+  <MonoDevelop.Ide.ItemProperties.SolitaireiOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.61165C49-25F0-4BD8-951C-B8162E7F66D9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolitaireiOS/Dialog.cs">
+    <Files>
+      <File FileName="SolitaireiOS/UseBoardViewController.cs" Line="78" Column="108" />
+      <File FileName="SolitaireiOS/Dialog.cs" Line="109" Column="55" />
+      <File FileName="SolitaireiOS/DeckPickerModel.cs" Line="46" Column="29" />
+      <File FileName="SolitaireiOS/AssetManager.cs" Line="1" Column="1" />
+      <File FileName="SolitaireiOS/Lang/Board.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolitaireiOS" expanded="True">
+            <Node name="SolitaireiOS" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="CustomGestures" expanded="True" />
+              <Node name="Images" expanded="True" />
+              <Node name="Lang" expanded="True" />
+              <Node name="Dialog.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ksm3091/Desktop/SolitaireiOs-master/SolitaireiOS/SolitaireiOS.csproj": {}
+  },
+  "projects": {
+    "/Users/ksm3091/Desktop/SolitaireiOs-master/SolitaireiOS/SolitaireiOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ksm3091/Desktop/SolitaireiOs-master/SolitaireiOS/SolitaireiOS.csproj",
+        "projectName": "SolitaireiOS",
+        "projectPath": "/Users/ksm3091/Desktop/SolitaireiOs-master/SolitaireiOS/SolitaireiOS.csproj",
+        "packagesPath": "/Users/ksm3091/.nuget/packages/",
+        "outputPath": "/Users/ksm3091/Desktop/SolitaireiOs-master/SolitaireiOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ksm3091/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Syncfusion.Xamarin.SfKanban.IOS": {
+              "target": "Package",
+              "version": "[17.3.0.27, )"
+            },
+            "Syncfusion.Xamarin.SfNavigationDrawer.IOS": {
+              "target": "Package",
+              "version": "[17.3.0.27, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
